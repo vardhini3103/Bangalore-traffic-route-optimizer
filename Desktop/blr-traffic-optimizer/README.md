@@ -1,4 +1,4 @@
-# Bangalore Traffic Router
+# Bangalore Traffic Route Optimizer
 
 A web application that helps users find optimal routes between locations in Bangalore city, using OpenStreetMap data.
 
@@ -11,9 +11,8 @@ A web application that helps users find optimal routes between locations in Bang
 
 ## Setup
 
-1. Install Python 3.8 or higher
 
-2. Install required packages:
+1. Install required packages:
 
 ```bash
 pip install -r requirements.txt
